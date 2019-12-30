@@ -1,3 +1,22 @@
+# Film Recommendation System
+
+
+
+The main aim of this project is to provide an online platform to individuals, where individuals
+can select their choices of film and system will return best suggestion which is actually based
+on another users rating.
+
+##### Developed using Pyhton for data analysis, Django framework on backend to create easily consume JSON Rest API and React JS on frontend to fetch the API from backend and from [The movie database(TMDB)](https://developers.themoviedb.org/3/getting-started/introduction).
+
+## PreRequirements & Installations 
+
+*[Django](https://docs.djangoproject.com/en/3.0/intro/install/)
+*[django-rest-framework](https://www.django-rest-framework.org/)
+*Install requirement.txt with pip in django 
+
+
+##ReactJS Installation 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
