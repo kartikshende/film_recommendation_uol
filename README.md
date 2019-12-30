@@ -1,7 +1,8 @@
 # Film Recommendation System
 
+![First Screen view](https://github.com/kartikshende/film_recommendation_uol/blob/master/Screen%20View/Screenshot%202019-05-17%20at%201.31.59%20pm.png)
 
-
+### About
 The main aim of this project is to provide an online platform to individuals, where individuals
 can select their choices of film and system will return best suggestion which is actually based
 on another users rating.
@@ -10,12 +11,12 @@ on another users rating.
 
 ## PreRequirements & Installations 
 
-*[Django](https://docs.djangoproject.com/en/3.0/intro/install/)
-*[django-rest-framework](https://www.django-rest-framework.org/)
-*Install requirement.txt with pip in django 
+* [Django](https://docs.djangoproject.com/en/3.0/intro/install/)
+* [django-rest-framework](https://www.django-rest-framework.org/)
+* Install requirement.txt with pip in django 
 
 
-##ReactJS Installation 
+## ReactJS Installation 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -85,3 +86,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# Author
+* Kartik Shende
